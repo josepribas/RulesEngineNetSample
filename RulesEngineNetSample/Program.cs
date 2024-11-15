@@ -1,5 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-
+﻿// See https://microsoft.github.io/RulesEngine/ for more information
+// Rules editor: https://alexreich.github.io/RulesEngineEditor/demo
+    
 using System.Text.Json;
 using RulesEngine.Models;
 
